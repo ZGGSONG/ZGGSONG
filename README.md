@@ -8,3 +8,5 @@ In addition, I will share some of my study and life records on my [blog](https:/
 - 🌱 I’m currently learning Golang.
 - 📫 you can reach me with [zggsong@foxmail.com](mailto://zggsong@foxmail.com).
 - ⚡ Fun fact: Trying to learn more and translate what I have learned into practical software or help people...
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zggsong)]()
