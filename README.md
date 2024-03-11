@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-@zggsong, I graduated from Anhui University of Technology, School of Computer Science and Technology. I am currently working in a manufacturing company using C# and Golang for software development. In my spare time I will learn some interesting technologies and try to write some demos or gadgets by myself.
+@zggsong, Hello, I am a software development engineer currently working at a semiconductor company using C# (WPF) for software development. In my spare time, I enjoy learning some interesting technologies and trying to write my own demos or small tools.
 
 In addition, I will share some of my study and life records on my [blog](https://www.zggsong.com). 
 
