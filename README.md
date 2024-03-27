@@ -9,4 +9,6 @@ In addition, I will share some of my study and life records on my [blog](https:/
 - 📫 you can reach me with [zggsong@foxmail.com](mailto:zggsong@foxmail.com).
 - ⚡ Fun fact: Trying to learn more and translate what I have learned into practical software or help people...
 
-[![zggsong](https://github-readme-stats.vercel.app/api?username=zggsong)]()
+![zggsong](https://github-profile-trophy.vercel.app/?username=ZGGSONG&row=2&column=4)
+
+![zggsong](https://github-readme-stats.vercel.app/api?username=zggsong)
