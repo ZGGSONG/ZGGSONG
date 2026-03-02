@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">zggsong's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 253, Total Commits  (last year) : 1196, Total PRs: 39, Total Issues: 45, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 253, Total Commits  (last year) : 1186, Total PRs: 39, Total Issues: 45, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 70.22804532925282;
+        stroke-dashoffset: 70.27078991108728;
       }
     }
   
